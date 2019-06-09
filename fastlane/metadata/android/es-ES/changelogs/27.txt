@@ -1,0 +1,6 @@
+• Añadir un cajón de favoritos al que se accede deslizando desde la derecha.
+• Evitar que el Modo Noche parpadee sobre un fondo blanco al cargar páginas nuevas.
+• Actualizar los agentes de usuario.
+• Aumentar la API dirigido a 26 (Android Oreo, 8.0.0).
+• Actualizada la traducción al español proporcionada por Jose A. León.
+• Actualizada la traducción al italiano proporcionada por Francesco Buratti.

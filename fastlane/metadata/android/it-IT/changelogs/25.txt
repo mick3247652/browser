@@ -1,0 +1,11 @@
+• Aggiunta la possibilità di appuntare i certificati SSL alle impostazioni dei domini.
+• Aggiunto searx.me alla lista dei motori di ricerca.
+• Aggiornata la pagina iniziale di default in modo da funzionare sia con JavaScript abilitato che disabilitato.
+• Corretto un baco che provocava, in caso di rotazione dello schermo, la perdita del titolo dei siti web.
+• Disabilitata l'opzione del menu “Elimina DOM Storage” quando non c'è nulla da cancellare.
+• Utilizzo di un carattere rosso per indicare i siti non criptati.
+• Correzione di un baco che a volte provocava il malfunzionamento degli user agent personalizzati per i domini.
+• Correzione di un baco che provocava modifiche ai siti web (visualizzati come semplici elenchi) nel caso in cui Privacy Browser venisse messo in background.
+• Svariati piccoli miglioramenti sono stati apportati alla schermata dei domini.
+• Aggiornamento della traduzione Italiana fornita da Francesco Buratti.
+• Aggiornamento della traduzione Spagnola fornita da Jose A. León.
